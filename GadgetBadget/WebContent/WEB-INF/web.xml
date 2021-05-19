@@ -24,7 +24,7 @@
 
 <servlet-name>Jersey Web Application</servlet-name>
 
-<url-pattern>/CustomerService/*</url-pattern>
+<url-pattern>/CustomersService/*</url-pattern>
 
 </servlet-mapping>
 </web-app>
